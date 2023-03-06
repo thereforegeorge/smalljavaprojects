@@ -1,3 +1,6 @@
+// Number Guessing Game made in Java
+// MIT License
+
 import java.util.Random;
 import java.util.Scanner;
 
